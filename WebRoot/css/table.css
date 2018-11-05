@@ -1,0 +1,12 @@
+body {background-color: #E8F0F5;}
+tr:nth-child(even) {background-color: #F0B99D;}
+tr:hover {background-color: #fff;}
+th {padding: 10px;background-color: #333;}
+td {padding: 10px;background-color: #fff;}
+tr {text-align: center;}
+from {width: 800px;margin-left: 5px;margin-bottom: 0px;}
+input {width: 961px;height: 30px;border: 1px solid #369;margin-top: 5px;}
+.bu {margin-left: 1225px;margin-top: 5px;display: inline;position: absolute;right: 3px;}
+.w {width: 350px;position: relative;}
+.del {width:200px;}
+button {width: 65px;height: 30px;border: 1px solid #369;background-color: #A5BFD6;font-size: 16px;}
